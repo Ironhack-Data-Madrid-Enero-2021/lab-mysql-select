@@ -57,7 +57,7 @@ JOIN sales
 
 GROUP BY authors.au_id
 
-ORDER BY 'TOTAL' DESC
+ORDER BY TOTAL DESC
 
 LIMIT 3
 
