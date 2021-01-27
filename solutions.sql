@@ -1,7 +1,5 @@
 -- Challenge 1
 
-USE Ironhack;
-
 SELECT
 authors.au_id AS "AUTHOR ID",
 authors.au_lname AS "LAST NAME", 
@@ -18,10 +16,7 @@ JOIN titles
 JOIN publishers
     ON  titles.pub_id = publishers.pub_id;
     
-    
 -- Challenge 2
-
-USE Ironhack;
 
 SELECT 
 authors.au_id AS 'AUTHOR ID',
@@ -44,7 +39,6 @@ GROUP BY authors.au_id, pub_name;
 
 -- Challenge 3
 
-USE Ironhack;
 SELECT 
 authors.au_id AS 'AUTHOR ID',
 authors.au_lname AS 'LAST NAME', 
@@ -68,8 +62,6 @@ ORDER BY 'TOTAL' DESC
 LIMIT 3
 
 -- Challenge 4
-
-USE Ironhack;
 
 SELECT 
 authors.au_id AS 'AUTHOR ID',
