@@ -46,3 +46,15 @@ FROM authors AS a
 		ON ta.title_id = t.title_id
 GROUP BY a.au_id
 ORDER BY Total_sales DESC;
+
+-- Bonus Challenge
+
+SELECT a.au_id, au_lname, au_fname,
+	SUM(advance * (royaltyper / 100)) + SUM((royalty * ytd_sales) * (royaltyper / 100)) AS Total_profits
+FROM authors AS a
+	JOIN titleauthor as ta
+		ON a.au_id = ta.au_id
+	JOIN titles AS t
+		ON ta.title_id = t.title_id
+GROUP BY a.au_id
+ORDER BY Total_profits DESC;
