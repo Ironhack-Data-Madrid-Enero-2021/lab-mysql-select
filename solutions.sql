@@ -80,5 +80,6 @@ FROM
 	JOIN roysched AS rs on rs.title_id = tt.title_id
     JOIN titles AS t on t.title_id  = tt.title_id
 
+GROUP BY au.au_id
 ORDER BY Profit DESC
 LIMIT 3;
