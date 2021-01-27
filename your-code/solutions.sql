@@ -55,3 +55,17 @@ JOIN titles ON titles.title_id = titleauthor.title_id
 JOIN sales on titles.title_id = sales.title_id
 GROUP BY authors.au_id
 ORDER BY TOTAL DESC;
+
+# Bonus
+SELECT 
+authors.au_id AS AUTHOR_ID,
+authors.au_lname AS LAST_NAME, 
+authors.au_fname AS FIRST_NAME,
+(titles.advance+roysched.royalty)*titleauthor.royaltyper AS PROFIT
+FROM authors
+JOIN titleauthor ON authors.au_id = titleauthor.au_id
+JOIN titles ON titles.title_id = titleauthor.title_id
+JOIN roysched ON roysched.title_id = titles.title_id
+GROUP BY authors.au_id
+ORDER BY PROFIT DESC
+LIMIT 3;
