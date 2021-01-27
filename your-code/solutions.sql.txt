@@ -1,0 +1,11 @@
+CHALLENGE 1 = SELECT authors.au_id AS 'AUTHOR ID', au_lname AS 'LAST NAME', au_fname AS 'FIRST NAME', title AS 'TITTLE', pub_name AS 'PUBLISHER' FROM authors
+	JOIN titleauthor ON titleauthor.au_id = authors.au_id
+	JOIN titles ON titles.title_id = titleauthor.title_id
+	JOIN publishers ON publishers.pub_id = titles.pub_id;
+
+CHALLENGE 2 = SELECT authors.au_id AS 'AUTHOR ID', au_lname AS 'LAST NAME', au_fname AS 'FIRST NAME', title AS 'TITTLE', pub_name AS 'PUBLISHER', COUNT(title) AS 'TITLE COUNT' 
+FROM authors
+	JOIN titleauthor ON titleauthor.au_id = authors.au_id
+	JOIN titles ON titles.title_id = titleauthor.title_id
+	JOIN publishers ON publishers.pub_id = titles.pub_id
+GROUP BY pub_name, authors.au_id, au_lname, au_fname;
