@@ -57,4 +57,5 @@ FROM authors AS a
 	JOIN titles AS t
 		ON ta.title_id = t.title_id
 GROUP BY a.au_id
-ORDER BY Total_profits DESC;
+ORDER BY Total_profits DESC
+LIMIT 5;
