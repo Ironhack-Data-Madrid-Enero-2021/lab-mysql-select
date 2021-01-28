@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">au_id</Data></Cell>
+			<Cell><Data ss:Type="String">au_lname</Data></Cell>
+			<Cell><Data ss:Type="String">au_fname</Data></Cell>
+			<Cell><Data ss:Type="String">title</Data></Cell>
+			<Cell><Data ss:Type="String">pub_name</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">213-46-8915</Data></Cell>
+			<Cell><Data ss:Type="String">Green</Data></Cell>
+			<Cell><Data ss:Type="String">Marjorie</Data></Cell>
+			<Cell><Data ss:Type="String">The Busy Executive's Database Guide</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">409-56-7008</Data></Cell>
+			<Cell><Data ss:Type="String">Bennet</Data></Cell>
+			<Cell><Data ss:Type="String">Abraham</Data></Cell>
+			<Cell><Data ss:Type="String">The Busy Executive's Database Guide</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">267-41-2394</Data></Cell>
+			<Cell><Data ss:Type="String">O'Leary</Data></Cell>
+			<Cell><Data ss:Type="String">Michael</Data></Cell>
+			<Cell><Data ss:Type="String">Cooking with Computers: Surreptitious Balance Sheets</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">724-80-9391</Data></Cell>
+			<Cell><Data ss:Type="String">MacFeather</Data></Cell>
+			<Cell><Data ss:Type="String">Stearns</Data></Cell>
+			<Cell><Data ss:Type="String">Cooking with Computers: Surreptitious Balance Sheets</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">213-46-8915</Data></Cell>
+			<Cell><Data ss:Type="String">Green</Data></Cell>
+			<Cell><Data ss:Type="String">Marjorie</Data></Cell>
+			<Cell><Data ss:Type="String">You Can Combat Computer Stress!</Data></Cell>
+			<Cell><Data ss:Type="String">New Moon Books</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">274-80-9391</Data></Cell>
+			<Cell><Data ss:Type="String">Straight</Data></Cell>
+			<Cell><Data ss:Type="String">Dean</Data></Cell>
+			<Cell><Data ss:Type="String">Straight Talk About Computers</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">712-45-1867</Data></Cell>
+			<Cell><Data ss:Type="String">del Castillo</Data></Cell>
+			<Cell><Data ss:Type="String">Innes</Data></Cell>
+			<Cell><Data ss:Type="String">Silicon Valley Gastronomic Treats</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">722-51-5454</Data></Cell>
+			<Cell><Data ss:Type="String">DeFrance</Data></Cell>
+			<Cell><Data ss:Type="String">Michel</Data></Cell>
+			<Cell><Data ss:Type="String">The Gourmet Microwave</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">899-46-2035</Data></Cell>
+			<Cell><Data ss:Type="String">Ringer</Data></Cell>
+			<Cell><Data ss:Type="String">Anne</Data></Cell>
+			<Cell><Data ss:Type="String">The Gourmet Microwave</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">238-95-7766</Data></Cell>
+			<Cell><Data ss:Type="String">Carson</Data></Cell>
+			<Cell><Data ss:Type="String">Cheryl</Data></Cell>
+			<Cell><Data ss:Type="String">But Is It User Friendly?</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">427-17-2319</Data></Cell>
+			<Cell><Data ss:Type="String">Dull</Data></Cell>
+			<Cell><Data ss:Type="String">Ann</Data></Cell>
+			<Cell><Data ss:Type="String">Secrets of Silicon Valley</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">846-92-7186</Data></Cell>
+			<Cell><Data ss:Type="String">Hunter</Data></Cell>
+			<Cell><Data ss:Type="String">Sheryl</Data></Cell>
+			<Cell><Data ss:Type="String">Secrets of Silicon Valley</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">486-29-1786</Data></Cell>
+			<Cell><Data ss:Type="String">Locksley</Data></Cell>
+			<Cell><Data ss:Type="String">Charlene</Data></Cell>
+			<Cell><Data ss:Type="String">Net Etiquette</Data></Cell>
+			<Cell><Data ss:Type="String">Algodata Infosystems</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">724-80-9391</Data></Cell>
+			<Cell><Data ss:Type="String">MacFeather</Data></Cell>
+			<Cell><Data ss:Type="String">Stearns</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Phobic AND Non-Phobic Individuals: Behavior Variations</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">756-30-7391</Data></Cell>
+			<Cell><Data ss:Type="String">Karsen</Data></Cell>
+			<Cell><Data ss:Type="String">Livia</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Phobic AND Non-Phobic Individuals: Behavior Variations</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">899-46-2035</Data></Cell>
+			<Cell><Data ss:Type="String">Ringer</Data></Cell>
+			<Cell><Data ss:Type="String">Anne</Data></Cell>
+			<Cell><Data ss:Type="String">Is Anger the Enemy?</Data></Cell>
+			<Cell><Data ss:Type="String">New Moon Books</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">998-72-3567</Data></Cell>
+			<Cell><Data ss:Type="String">Ringer</Data></Cell>
+			<Cell><Data ss:Type="String">Albert</Data></Cell>
+			<Cell><Data ss:Type="String">Is Anger the Enemy?</Data></Cell>
+			<Cell><Data ss:Type="String">New Moon Books</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">998-72-3567</Data></Cell>
+			<Cell><Data ss:Type="String">Ringer</Data></Cell>
+			<Cell><Data ss:Type="String">Albert</Data></Cell>
+			<Cell><Data ss:Type="String">Life Without Fear</Data></Cell>
+			<Cell><Data ss:Type="String">New Moon Books</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">172-32-1176</Data></Cell>
+			<Cell><Data ss:Type="String">White</Data></Cell>
+			<Cell><Data ss:Type="String">Johnson</Data></Cell>
+			<Cell><Data ss:Type="String">Prolonged Data Deprivation: Four Case Studies</Data></Cell>
+			<Cell><Data ss:Type="String">New Moon Books</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">486-29-1786</Data></Cell>
+			<Cell><Data ss:Type="String">Locksley</Data></Cell>
+			<Cell><Data ss:Type="String">Charlene</Data></Cell>
+			<Cell><Data ss:Type="String">Emotional Security: A New Algorithm</Data></Cell>
+			<Cell><Data ss:Type="String">New Moon Books</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">807-91-6654</Data></Cell>
+			<Cell><Data ss:Type="String">Panteley</Data></Cell>
+			<Cell><Data ss:Type="String">Sylvia</Data></Cell>
+			<Cell><Data ss:Type="String">Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">648-92-1872</Data></Cell>
+			<Cell><Data ss:Type="String">Blotchet-Halls</Data></Cell>
+			<Cell><Data ss:Type="String">Reginald</Data></Cell>
+			<Cell><Data ss:Type="String">Fifty Years in Buckingham Palace Kitchens</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">267-41-2394</Data></Cell>
+			<Cell><Data ss:Type="String">O'Leary</Data></Cell>
+			<Cell><Data ss:Type="String">Michael</Data></Cell>
+			<Cell><Data ss:Type="String">Sushi, Anyone?</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">472-27-2349</Data></Cell>
+			<Cell><Data ss:Type="String">Gringlesby</Data></Cell>
+			<Cell><Data ss:Type="String">Burt</Data></Cell>
+			<Cell><Data ss:Type="String">Sushi, Anyone?</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">672-71-3249</Data></Cell>
+			<Cell><Data ss:Type="String">Yokomoto</Data></Cell>
+			<Cell><Data ss:Type="String">Akiko</Data></Cell>
+			<Cell><Data ss:Type="String">Sushi, Anyone?</Data></Cell>
+			<Cell><Data ss:Type="String">Binnet & Hardley</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
